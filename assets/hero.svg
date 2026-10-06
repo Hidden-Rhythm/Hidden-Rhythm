@@ -1,0 +1,23 @@
+<svg width="1600" height="430" viewBox="0 0 1600 430" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <radialGradient id="bg"><stop stop-color="#1c1c1c"/><stop offset="1" stop-color="#030303"/></radialGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1600" height="430" rx="32" fill="url(#bg)"/>
+<g opacity=".18" stroke="#fff">
+ <path d="M0 90H1600M0 170H1600M0 250H1600M0 330H1600"/>
+ <path d="M120 0V430M320 0V430M520 0V430M720 0V430M920 0V430M1120 0V430M1320 0V430M1520 0V430"/>
+</g>
+<g fill="#fff">
+ <circle cx="170" cy="82" r="2"/><circle cx="1390" cy="108" r="2"/>
+ <circle cx="1210" cy="335" r="1.5"/><circle cx="350" cy="310" r="1.5"/>
+</g>
+<text x="800" y="155" text-anchor="middle" fill="#fff" font-family="monospace" font-size="74" font-weight="800" filter="url(#glow)">Hidden-Rhythm</text>
+<text x="800" y="205" text-anchor="middle" fill="#aaa" font-family="monospace" font-size="20">not a portfolio. more like a digital crime scene.</text>
+<text x="800" y="275" text-anchor="middle" fill="#fff" font-family="monospace" font-size="18">BUILDING • BREAKING • LEARNING • REPEATING</text>
+<g transform="translate(560 315)">
+ <rect width="480" height="44" rx="22" fill="#0a0a0a" stroke="#333"/>
+ <circle cx="27" cy="22" r="6" fill="#fff"><animate attributeName="opacity" values="1;.2;1" dur="1.3s" repeatCount="indefinite"/></circle>
+ <text x="48" y="28" fill="#aaa" font-family="monospace" font-size="14">system.status = "probably_fine"</text>
+</g>
+</svg>

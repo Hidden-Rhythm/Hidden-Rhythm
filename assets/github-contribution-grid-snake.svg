@@ -1,0 +1,5 @@
+<svg width="1200" height="220" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="220" rx="20" fill="#050505" stroke="#222"/>
+<text x="600" y="92" text-anchor="middle" fill="#aaa" font-family="monospace" font-size="18">contribution snake loading...</text>
+<text x="600" y="125" text-anchor="middle" fill="#555" font-family="monospace" font-size="13">the GitHub Action will replace this automatically</text>
+</svg>

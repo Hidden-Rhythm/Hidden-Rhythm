@@ -1,0 +1,6 @@
+<svg width="1600" height="190" viewBox="0 0 1600 190" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="x"><stop stop-color="#050505"/><stop offset=".5" stop-color="#222"/><stop offset="1" stop-color="#050505"/></linearGradient></defs>
+<path d="M0 50 Q400 0 800 50 T1600 50 V190 H0Z" fill="url(#x)"/>
+<text x="800" y="105" text-anchor="middle" fill="#fff" font-family="monospace" font-size="21">connection terminated.</text>
+<text x="800" y="135" text-anchor="middle" fill="#666" font-family="monospace" font-size="13">until the next idea.</text>
+</svg>
