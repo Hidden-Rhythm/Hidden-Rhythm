@@ -149,7 +149,7 @@ high effort
 
 <div align="center">
 
-<img src="./assets/github-contribution-grid-snake.svg" width="95%" alt="GitHub contribution snake">
+<img src="https://raw.githubusercontent.com/Hidden-Rhythm/Hidden-Rhythm/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub contribution snake">
 
 </div>
 
