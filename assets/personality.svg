@@ -1,0 +1,19 @@
+<svg width="1600" height="190" viewBox="0 0 1600 190" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="190" rx="25" fill="#050505" stroke="#222"/>
+<text x="55" y="50" fill="#fff" font-family="monospace" font-size="18">CURRENT PERSONALITY BUILD</text>
+<g font-family="monospace" font-size="14" fill="#aaa">
+<text x="55" y="92">curiosity</text><text x="55" y="142">overengineering</text>
+<text x="610" y="92">chaos</text><text x="610" y="142">sleep</text>
+</g>
+<g fill="#222">
+<rect x="170" y="78" width="330" height="15" rx="7"/><rect x="170" y="128" width="330" height="15" rx="7"/>
+<rect x="675" y="78" width="330" height="15" rx="7"/><rect x="675" y="128" width="330" height="15" rx="7"/>
+</g>
+<rect x="170" y="78" width="310" height="15" rx="7" fill="#eee"/>
+<rect x="170" y="128" width="285" height="15" rx="7" fill="#aaa"/>
+<rect x="675" y="78" width="300" height="15" rx="7" fill="#ddd"/>
+<rect x="675" y="128" width="38" height="15" rx="7" fill="#555"/>
+<text x="1080" y="90" fill="#777" font-family="monospace" font-size="13">████████████████████</text>
+<text x="1080" y="118" fill="#aaa" font-family="monospace" font-size="13">██████████████████</text>
+<text x="1080" y="146" fill="#666" font-family="monospace" font-size="13">██</text>
+</svg>

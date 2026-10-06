@@ -1,0 +1,26 @@
+name: ✨ Profile check
+
+on:
+  push:
+    paths:
+      - "README.md"
+      - "assets/**"
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check required files
+        run: |
+          set -e
+          test -f README.md
+          test -f assets/hero.svg
+          test -f assets/typing.gif
+          test -f assets/personality.svg
+          test -f assets/easter-egg.svg
+          test -f assets/footer.svg
+          test -f assets/github-contribution-grid-snake.svg
+          echo "✨ Hidden-Rhythm profile looks alive"

@@ -1,0 +1,7 @@
+<svg width="1400" height="180" viewBox="0 0 1400 180" xmlns="http://www.w3.org/2000/svg">
+<rect width="1400" height="180" rx="25" fill="#050505" stroke="#222"/>
+<text x="700" y="62" text-anchor="middle" fill="#fff" font-family="monospace" font-size="22">01001001 00100110 01001001</text>
+<text x="700" y="98" text-anchor="middle" fill="#666" font-family="monospace" font-size="14">there is no secret here.</text>
+<text x="700" y="125" text-anchor="middle" fill="#999" font-family="monospace" font-size="14">unless you decided there is.</text>
+<circle cx="610" cy="145" r="2" fill="#fff"><animate attributeName="cx" values="610;790;610" dur="2.5s" repeatCount="indefinite"/></circle>
+</svg>
