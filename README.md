@@ -133,16 +133,15 @@ high effort
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hidden-Rhythm&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github" height="180" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Hidden-Rhythm&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github&cache_seconds=1&v=20261006" height="180" alt="GitHub stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hidden-Rhythm&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=aaaaaa" height="180" alt="top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hidden-Rhythm&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&cache_seconds=1&v=20261006" height="180" alt="top languages">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Hidden-Rhythm&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666" width="720" alt="GitHub streak">
+<img src="https://streak-stats.demolab.com?user=Hidden-Rhythm&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&v=20261006" width="720" alt="GitHub streak">
 
 </div>
-
 ---
 
 ## 🐍 `apparently_i_commit_too`
