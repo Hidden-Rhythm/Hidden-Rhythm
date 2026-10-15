@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="./assets/hero.svg" width="100%" alt="Hidden-Rhythm">
 
@@ -142,6 +142,7 @@ high effort
 <img src="https://streak-stats.demolab.com?user=Hidden-Rhythm&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&v=20261006" width="720" alt="GitHub streak">
 
 </div>
+
 ---
 
 ## 🐍 `apparently_i_commit_too`
@@ -207,6 +208,22 @@ high effort
 `ideas > excuses`
 
 `shipping > talking`
+
+</div>
+
+---
+
+## 💬 `find_me_on_discord`
+
+<div align="center">
+
+<a href="https://discord.com" target="_blank">
+<img src="https://img.shields.io/badge/DISCORD-hiden__rhythm-111111?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: hiden_rhythm">
+</a>
+
+<br><br>
+
+`got something to say? you know where to find me.`
 
 </div>
 
