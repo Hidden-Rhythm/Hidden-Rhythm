@@ -218,7 +218,7 @@ high effort
 <div align="center">
 
 <a href="https://discord.com" target="_blank">
-<img src="https://img.shields.io/badge/DISCORD-hidden__rhythm-111111?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: hidden_rhythm">
+<img src="https://img.shields.io/badge/DISCORD-hidden__rhythm-111111?style=flat-square&logo=discord&logoColor=white" alt="Discord: hidden_rhythm">
 </a>
 
 <br><br>
@@ -226,7 +226,6 @@ high effort
 `got something to say? you know where to find me.`
 
 </div>
-
 ---
 
 ## 👀 `you_found_the_bottom`
