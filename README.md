@@ -171,6 +171,10 @@ high effort
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hidden-Rhythm&repo=Calculator&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" alt="Calculator">
 </a>
 
+<a href="https://github.com/Hidden-Rhythm/Discord-Auto-Quest-Extension">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hidden-Rhythm&repo=Discord-Auto-Quest-Extension&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" alt="Discord-Auto-Quest-Extension">
+</a>
+
 </div>
 
 ---
